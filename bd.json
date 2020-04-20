@@ -1,0 +1,18 @@
+{
+    "users": [{
+        "id": 1,
+        "name":"Arthur",
+        "email":"aoliveira@çlkçlk.com"
+    },
+    {
+        "id": 2,
+        "name":"Maria",
+        "email":"maria@çlkçlk.com"
+    },
+    {
+        "id": 3,
+        "name":"Carol",
+        "email":"carol@çlkçlk.com"
+    }
+    ]
+}
